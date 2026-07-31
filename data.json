@@ -870,5 +870,16 @@
     "ukuran": "28 KB",
     "tanggal unggah": "31 Juli 2026",
     "description": "Paket ini menambahkan fitur zoom sederhana yang berfungsi saat Anda berjongkok. Itu saja—tidak ada tombol tambahan, tidak ada modifikasi, tidak ada pengaturan rumit. Anda cukup berjongkok seperti biasa, dan kamera akan memperbesar tampilan secara halus sehingga Anda dapat melihat objek yang jauh dengan lebih jelas. Berdiri kembali, dan tampilan akan kembali normal."
+  },
+  {
+    "nama file": "Better Flight System",
+    "type file": "Addon",
+    "kategori": "addon",
+    "link gambar": "https://cdn.phototourl.com/member/2026-07-31-324aec91-6cac-4acb-9e4d-d3b5ed527c1b.png",
+    "link download": "https://www.mediafire.com/file/oz0a1y5rww192c1/BFS_2.0.mcaddon/file?dkey=c0zx9xvdglh&r=1844",
+    "versi mc": "1.26+",
+    "ukuran": "640 KB",
+    "tanggal unggah": "31 Juli 2026",
+    "description": "Addon ini menambahkan sistem penerbangan yang mulus dengan kamera miring, FOV berbasis kecepatan, dan pengalaman terbang yang imersif menggunakan elytra. Terinspirasi oleh mekanisme barrel roll."
   }
 ]
