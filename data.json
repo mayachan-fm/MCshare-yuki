@@ -980,5 +980,16 @@
     "ukuran": "1.9",
     "tanggal unggah": "1 Agustus 2026",
     "description": "\"Survival Overhaul adalah resource pack lengkap yang dirancang untuk meningkatkan setiap aspek gameplay bertahan hidup di Minecraft Bedrock. Alih-alih menumpuk banyak resource pack, pack tunggal ini menggabungkan berbagai fitur penting untuk mode survival ke dalam satu pengalaman yang rapi, lengkap, dan berkualitas.\""
+  },
+  {
+    "nama file": "ReplayCraft Real Replay Add-on",
+    "type file": "Script",
+    "kategori": "addon",
+    "link gambar": "https://cdn.phototourl.com/member/2026-08-01-203f1e56-7e08-46ad-9bdd-8949e79f367b.jpg",
+    "link download": "https://files.catbox.moe/bgkpbm.mcaddon",
+    "versi mc": "1.26+",
+    "ukuran": "860 KB",
+    "tanggal unggah": "1 Agustus 2026",
+    "description": "ReplayCraft adalah add-on Minecraft Bedrock Edition yang canggih yang memungkinkan pemain untuk merekam dan memutar ulang aksi mereka di dalam game, mirip dengan ReplayMod yang populer untuk Java Edition. Baik Anda ingin merekam bangunan terbaik Anda, atau membuat tayangan ulang sinematik, ReplayCraft memudahkan Anda untuk merekam, memutar ulang, dan menganalisis permainan langsung di dalam Minecraft Bedrock Edition.\n\nReplayCraft kini menggunakan API server 2.5.0-Beta dan API server-ui 2.1.0-Beta , yang meningkatkan kompatibilitas dan performa untuk Minecraft Bedrock."
   }
 ]
