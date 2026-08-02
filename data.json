@@ -1046,5 +1046,16 @@
     "ukuran": "2.31 MB",
     "tanggal unggah": "2 Agustus 2026",
     "description": "Menambahkan monster gua ke dalam game! | Ini adalah port Bedrock terbaik dari Cave Dweller, lebih baik dari semua port sebelumnya, sangat mirip dengan versi Java dengan hampir tanpa perbedaan, dan dioptimalkan untuk perangkat seluler dan perangkat kelas bawah."
+  },
+  {
+    "nama file": "Sweep 'N Slash",
+    "type file": "Addon",
+    "kategori": "addon",
+    "link gambar": "https://cdn.phototourl.com/free/2026-08-02-1540d2f8-1d85-49eb-aef2-6adc6192ce8a.png",
+    "link download": "https://files.catbox.moe/eiycpr.mcaddon",
+    "versi mc": "1.26+",
+    "ukuran": "282 KB",
+    "tanggal unggah": "2 Agustus 2026",
+    "description": "Sweep 'N Slash menambahkan serangan sapuan untuk pedang dan menonaktifkan efek dorongan mundur perisai.\nSweep 'N Slash mengkonversi perhitungan kerusakan ke dalam perhitungan yang digunakan oleh Java Edition.\nSweep 'N Slash menggunakan mekanisme efek dorongan mundur (knockback) khusus untuk menghadirkan efek dorongan mundur dari Java Edition ke Bedrock Edition semaksimal mungkin."
   }
 ]
