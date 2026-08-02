@@ -1057,5 +1057,16 @@
     "ukuran": "282 KB",
     "tanggal unggah": "2 Agustus 2026",
     "description": "Sweep 'N Slash menambahkan serangan sapuan untuk pedang dan menonaktifkan efek dorongan mundur perisai.\nSweep 'N Slash mengkonversi perhitungan kerusakan ke dalam perhitungan yang digunakan oleh Java Edition.\nSweep 'N Slash menggunakan mekanisme efek dorongan mundur (knockback) khusus untuk menghadirkan efek dorongan mundur dari Java Edition ke Bedrock Edition semaksimal mungkin."
+  },
+  {
+    "nama file": "Tanks | Drivable Battle Tank",
+    "type file": "Addon",
+    "kategori": "addon",
+    "link gambar": "https://cdn.phototourl.com/free/2026-08-02-21b17640-ac8e-4352-98e2-d1a9e2e579c7.png",
+    "link download": "https://files.catbox.moe/a113us.mcaddon",
+    "versi mc": "1.26 KB",
+    "ukuran": "282 KB",
+    "tanggal unggah": "2 Agustus 2026",
+    "description": "Kerahkan dan kendarai tank tempurmu sendiri di Minecraft Bedrock.\n\nTank ini dikendalikan seperti kendaraan beroda rantai sungguhan: bergerak maju dan mundur dengan tombol pergerakan, memutar lambung di tempat, dan membidik menara secara independen hanya dengan melihat sekeliling. Tembakkan peluru peledak dari meriam dan saksikan peluru tersebut melesat menuju target."
   }
 ]
