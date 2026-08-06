@@ -1222,5 +1222,16 @@
     "ukuran": "3 KB",
     "tanggal unggah": "6 Agustus 2026",
     "description": "Tampilan karakter penuh gaya dengan rambut berwarna hijau-kuning menyala yang kontras dengan balutan pakaian hitam pekat. Aksen biru selembut cahaya layar di punggung serta desain wajah dan sepatu yang unik memberikan kesan modern, misterius, dan penuh kepribadian. Karakter ini tampil seolah datang dari dunia masa depan—tenang, keren, dan berbeda dari yang lain!"
+  },
+  {
+    "nama file": "Effortless Building",
+    "type file": "Addon",
+    "kategori": "addon",
+    "link gambar": "https://cdn.phototourl.com/free/2026-08-06-6cf51499-a57d-428a-bffe-8336227ee931.png",
+    "link download": "https://files.catbox.moe/rv58pb.mcaddon",
+    "versi mc": "1.26+",
+    "ukuran": "636 KB",
+    "tanggal unggah": "6 Agustus 2026",
+    "description": "Effortless Building adalah add-on Bedrock yang terinspirasi oleh mod Java ikonik dengan nama yang sama karya Requioss. Alih-alih menempatkan blok satu per satu, Anda memilih mode pembangunan, mengklik dua atau tiga kali, dan seluruh struktur akan muncul: garis, dinding, lantai, bola, kerucut, tanjakan diagonal, dan banyak lagi, semuanya sambil menggunakan blok yang tepat dari inventaris survival Anda. v4 adalah rilis yang berfokus pada performa yang dibangun berdasarkan satu ide: pratinjau seharusnya tidak pernah mengurangi frame rate Anda. Ini menambahkan Deferred Shape Calculation, sistem pratinjau yang akhirnya menghormati pengaturan kualitas Anda dengan tepat, pembacaan tick-rate langsung saat Anda membangun, dan Setup Wizard saat pertama kali bergabung yang menyesuaikan add-on dengan perangkat Anda."
   }
 ]
