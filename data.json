@@ -1233,5 +1233,16 @@
     "ukuran": "636 KB",
     "tanggal unggah": "6 Agustus 2026",
     "description": "Effortless Building adalah add-on Bedrock yang terinspirasi oleh mod Java ikonik dengan nama yang sama karya Requioss. Alih-alih menempatkan blok satu per satu, Anda memilih mode pembangunan, mengklik dua atau tiga kali, dan seluruh struktur akan muncul: garis, dinding, lantai, bola, kerucut, tanjakan diagonal, dan banyak lagi, semuanya sambil menggunakan blok yang tepat dari inventaris survival Anda. v4 adalah rilis yang berfokus pada performa yang dibangun berdasarkan satu ide: pratinjau seharusnya tidak pernah mengurangi frame rate Anda. Ini menambahkan Deferred Shape Calculation, sistem pratinjau yang akhirnya menghormati pengaturan kualitas Anda dengan tepat, pembacaan tick-rate langsung saat Anda membangun, dan Setup Wizard saat pertama kali bergabung yang menyesuaikan add-on dengan perangkat Anda."
+  },
+  {
+    "nama file": "Honda VRX400",
+    "type file": "Addon",
+    "kategori": "addon",
+    "link gambar": "https://cdn.phototourl.com/free/2026-08-06-0a4ec7cd-ace6-494a-9864-c620bd31ec89.png",
+    "link download": "https://files.catbox.moe/930a9u.mcaddon",
+    "versi mc": "1.26+",
+    "ukuran": "845 KB",
+    "tanggal unggah": "6 Agustus 2026",
+    "description": "Model sepeda motor klasik Honda VRX 400 Roadster pertama kali diperkenalkan pada 21 Juli 1995, dan produksi seri resminya dimulai pada 5 Agustus tahun yang sama. Sepeda motor ini diposisikan sebagai motor klasik retro dan ditujukan bagi mereka yang menyukai bentuk klasik model-model dari tahun 70-an dan 80-an. Honda VRX400 adalah model domestik Jepang dan tidak diekspor secara resmi ke mana pun."
   }
 ]
